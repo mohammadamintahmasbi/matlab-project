@@ -1,5 +1,4 @@
-﻿% خواندن سیگنال ECG
-load('ecg_example (1).mat');
+﻿load('ecg_example (1).mat');
 
 % تعریف محور زمان
 fs = 360; % فرکانس نمونه‌برداری

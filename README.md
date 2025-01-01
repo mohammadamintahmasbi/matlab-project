@@ -1,5 +1,5 @@
 # MATLAB project
-This is my MATLAB project for MATLAB Workshop. The questions and their description wrote in project_question.pdf and my description are wrote in matlab_project.pdf./
+This is my MATLAB project for MATLAB Workshop. The questions and their description wrote in project_question.pdf and my description are wrote in matlab_project.pdf.
 ## Questions
 we have three questions and their answers wrote in matlab file with name question1.m , question2.m , question3.m.
 ## Prototype
